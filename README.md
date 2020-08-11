@@ -144,6 +144,7 @@ you can check the linked accounts by using
 ```
 pk;system
 ```
+*Only users who have their accounts linked under the `system` can use the bot commands, or else when you type in the same proxy tags, the message will show you were the one who sent it instead of converting it into a `bot` message.
 
 ### End
 And that's it, you're done! That's how it is to set up this bot, 

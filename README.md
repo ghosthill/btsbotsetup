@@ -167,4 +167,5 @@ For a full list of commands, you can find it [here](https://pluralkit.me/command
 
 ## Contact
 If you have any questions, feel free to message me on discord or tumblr [@sermindipity](https://sermindipity.tumblr.com/).
-__Disclaimer:__ I'm __not__ the owner of this bot, so you're better off messaging the creator [here](https://twitter.com/floofstrid) if you've encountered a problem. I can only help with setting up and ensuring the bot is working <em>if you're using this for the same purpose as I am.</em>
+
+<br>__Disclaimer:__ I'm __not__ the owner of this bot, so you're better off messaging the creator [here](https://twitter.com/floofstrid) if you've encountered a problem. I can only help with setting up and ensuring the bot is working <em>if you're using this for the same purpose as I am.</em>

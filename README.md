@@ -61,7 +61,7 @@ pk;member new bighitent
    
 <blockquote> Think of this as a set username for your profile/member moving forward, it's best to keep it simple to make it easier to remember.</blockquote>
    
-2.  You can check your profiles with this command `pk;system name list full`.
+2.  You can check your profiles with this command `pk;system list`.
 
 ### Customise Profiles
 This is the part where you customise the display names, avatar, description, etc of your profiles.

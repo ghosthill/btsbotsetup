@@ -10,6 +10,7 @@ tl;dr basically what this bot does is it creates a __system__, where you can hos
 <blockquote>keep in mind that there are also alternatives and you don't have to use it if you'd rather not, because it does require some members in the net to
 actively keep up with all of BTS's social media pages and not a lot of people can do that. 
 
+
 this is just a deliberate choice made on our end to use this bot as we can have everything under one belt instead of having multiple bots in one server. </blockquote>
 
 ## Content

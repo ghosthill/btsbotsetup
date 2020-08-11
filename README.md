@@ -23,7 +23,7 @@ actively keep up with all of BTS's social media pages and not a lot of people ha
   * [Link Accounts](#Link-Accounts)
   * [End](#End)
 * [Commands](#Commands)
-* [Alternatives](#Alternatives)
+* [Contact](#Contact)
 
 ## Part i: 
 ### Setting Up
@@ -59,7 +59,7 @@ pk;member new bighitent
    so since for my net we’ve decided on 6 profiles, there should be 6 names once i’ve finished setting up the profiles. 
    if you’ve decided on 3, then there should be 3, and vice versa.
    
-<blockquote> Think of this as a set username for your profile/member moving forward, so it should be kept simple so it's easy to remember.</blockquote>
+<blockquote> Think of this as a set username for your profile/member moving forward, it's best to keep it simple to make it easier to remember.</blockquote>
    
 2.  You can check your profiles with this command `pk;system name list full`.
 
@@ -111,9 +111,23 @@ bts_twt [BOT]
 https://twitter.com/BTS_twt/status/1292855794430427136
 ```
 
-## Example 
+That's pretty much it for tags! you will then repeat the same process to all of the profiles that you have.
 
-That's pretty much for tags! you will then repeat the same process to all of the profiles that you have.
+## Example 
+I'll give you a run-through of the whole entire setup here using the `btsvlive:text` proxy as an example.
+
+```
+btsvlive:Run BTS EP.112
+https://www.vlive.tv/video/206326
+```
+
+once I enter that into an allocated channel, the bot will convert it into an automated message:
+
+```
+BTS vlive [BOT] Today at 20:03
+Run BTS EP.112
+https://www.vlive.tv/video/206326
+```
 
 ### Link Accounts
 Once you have all the profiles set up with it's proxy tags, 
@@ -123,7 +137,7 @@ or else PluralKit won't be able to detect the command.
 
 ```
 pk;link [@account]
-eg. pk;link @username#4220
+eg. pk;link @discord username#1234
 ```
 
 you can check the linked accounts by using
@@ -151,3 +165,7 @@ pk;system [system] list [full] | Lists a system's members
 pk;link <account> | Links this system to a different account.
 
 For a full list of commands, you can find it [here](https://pluralkit.me/commands).
+
+## Contact
+If you have any questions, feel free to message me on discord or tumblr [@sermindipity](https://sermindipity.tumblr.com/).
+__Disclaimer:__ I'm __not__ the owner of this bot, so you're better off messaging the creator [here](https://twitter.com/floofstrid) if you've encountered a problem. I can only help with setting up and ensuring the bot is working <em>if you're using this for the same purpose as I am.</em>

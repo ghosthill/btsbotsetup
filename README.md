@@ -113,7 +113,7 @@ https://twitter.com/BTS_twt/status/1292855794430427136
 
 That's pretty much it for tags! you will then repeat the same process to all of the profiles that you have.
 
-## Example 
+### Example 
 I'll give you a run-through of the whole entire setup here using the `btsvlive:text` proxy as an example.
 
 ```

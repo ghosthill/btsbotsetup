@@ -96,7 +96,7 @@ you don't have to follow what i've done here.
 
 For example, when a member posts under their bts_twt account, the command will be `bts_twt:text`, and the `text` part is where you replace it with
 the *actual* text in a tweet/caption.
-Here, i'll copy the caption and the link* to the tweet and in the channel, i'll write:
+Here, I'll copy the caption and the link* to the tweet and in the channel, I'll write:
 ```
 btstwt:#Dynamite 
 https://twitter.com/BTS_twt/status/1292855794430427136
@@ -146,9 +146,8 @@ pk;system
 ```
 
 ### End
-yay you're done! that's how it is to set up this bot, 
-and because it's a little complicated i've opted to use github to host it because the formatting workds better imo~ 
-
+And that's it, you're done! That's how it is to set up this bot, 
+and because it's a little complicated I've opted to use github to host it because the formatting works better here.
 
 ## Commands
 A list of important commands if you're using this bot for the same purpose as i do.

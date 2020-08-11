@@ -75,7 +75,7 @@ This is the part where you customise the display names, avatar, description, etc
   
 * For avatars: `pk;member <member> avatar [url|@mention]`
   ```
-  * eg. `pk;member bts_twt avatar [uploads image of the icon of your choosing in the same message]`
+  * eg. pk;member bts_twt avatar [uploads image of the icon of your choosing in the same message]
   ```
   
 ## Part ii
